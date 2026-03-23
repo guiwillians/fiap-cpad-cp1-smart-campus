@@ -53,15 +53,19 @@
 ## d) Demonstração
 
 *(Adicione aqui pelo menos uma print de cada tela: Login, Home, Cantina, Labs, Radar, Cronograma, Notas)*
-<p align="center">
-  <img src="link-da-imagem-login.png" width="200" />
-  <img src="link-da-imagem-home.png" width="200" />
-  <img src="link-da-imagem-cantina.png" width="200" />
+<p alignt="center">
+  <img src="./assets/tela-home.png" width="200" />
+  <img src="./assets/tela-acesso.png" width="200" />
+  <img src="./assets/tela-cronograma.png" width="200" />
+  <img src="./assets/tela-notas.png" width="200" />
+  <img src="./assets/tela-reservar-labs.png" width="200" />
+  <img src="./assets/tela-cantina.png" width="200" />
+   <img src="./assets/tela-pagamento.png" width="200" />
 </p>
 
-📺 **[Clique aqui para assistir ao vídeo de demonstração do fluxo completo no YouTube]**
-
----
+<p alignt="center">
+  <img src="./assets/aplicativo.gif" width="400" />
+</p>
 
 ## e) Decisões Técnicas
 
