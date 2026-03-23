@@ -52,8 +52,7 @@
 
 ## d) Demonstração
 
-*(Adicione aqui pelo menos uma print de cada tela: Login, Home, Cantina, Labs, Radar, Cronograma, Notas)*
-<p alignt="center">
+<p align="center">
   <img src="./assets/tela-home.png" width="200" />
   <img src="./assets/tela-acesso.png" width="200" />
   <img src="./assets/tela-cronograma.png" width="200" />
@@ -63,8 +62,8 @@
    <img src="./assets/tela-pagamento.png" width="200" />
 </p>
 
-<p alignt="center">
-  <img src="./assets/aplicativo.gif" width="400" />
+<p align="center">
+  <img src="./assets/aplicativo.mp4" width="400" />
 </p>
 
 ## e) Decisões Técnicas
