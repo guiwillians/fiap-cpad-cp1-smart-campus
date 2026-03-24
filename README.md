@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <video src="./assets/aplicativo.mp4" width="400" controls></video>
+  <img src="./assets/aplicativo.gif" width="400" />
 </p>
 
 ## e) Decisões Técnicas
